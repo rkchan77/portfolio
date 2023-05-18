@@ -3,7 +3,7 @@ export default function Navbar() {
     return (
         <>
             <nav className="nav">
-                <a href="#home" className="siteTitle">Ryan Chan<div className="white">.</div><div className="purple">_</div></a>
+                <a href="/#home" className="siteTitle">Ryan Chan<div className="white">.</div><div className="purple">_</div></a>
                 <ul>
                     <CustomLink href="/#home">// home<sup class="superscript">01</sup></CustomLink>
                     <CustomLink href="/#projects">// projects<sup class="superscript">02</sup></CustomLink>
