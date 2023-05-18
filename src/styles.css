@@ -217,7 +217,7 @@ section {
 
 .midHeader {
     color: white;
-    font-size: clamp(72px, 4vw, 200px);
+    font-size: clamp(56px, 4vw, 200px);
     margin-bottom: 0em;
 
 }
