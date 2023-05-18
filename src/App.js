@@ -1,25 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import "@fontsource/league-spartan";
+import "@fontsource/poppins";
+import Main from "./Main";
+import CostCompass from "./components/CostCompass";
+import NeighbourNet from "./components/Neighbournet";
+import InternX from "./components/InternX";
+import StemFellowship from "./components/StemFellowship";
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" index element={<Main />} />
+        <Route path="/costcompass" element={<CostCompass />} />
+        <Route path="/neighbournet" element={<NeighbourNet />} />
+        <Route path="/internx" element={<InternX />} />
+        <Route path="/stemfellowship" element={<StemFellowship />} />
+
+
+      </Routes>
+    </BrowserRouter>
+  )
 }
 
 export default App;
+
