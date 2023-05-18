@@ -4,21 +4,18 @@ import Projects from "./components/Projects";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
 import { Helmet } from "react-helmet";
-import NeighbourNet from "./components/Neighbournet";
 
 function Main() {
     return (
         <>
             <Helmet>
                 <title>Ryan Chan</title>
-
             </Helmet>
             <Navbar />
             <Home />
             <Projects />
             <Experience />
             <Contact />
-            <NeighbourNet />
         </>
     )
 }
