@@ -11,11 +11,11 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 function App() {
   return (
     <Routes>
-      <Route path='/' index element={<Main />} />
-      <Route exact path='/costcompass' element={<CostCompass />} />
-      <Route exact path='/neighbournet' element={<NeighbourNet />} />
-      <Route exact path='/internx' element={<InternX />} />
-      <Route exact path='/stemfellowship' element={<StemFellowship />} />
+      <Route exact path='/' index element={<Main />} />
+      <Route path='/costcompass' element={<CostCompass />} />
+      <Route path='/neighbournet' element={<NeighbourNet />} />
+      <Route path='/internx' element={<InternX />} />
+      <Route path='/stemfellowship' element={<StemFellowship />} />
 
 
     </Routes>
