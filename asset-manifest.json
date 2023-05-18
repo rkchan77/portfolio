@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.37e4dc29.css",
+    "main.js": "/portfolio/static/js/main.a35319d0.js",
+    "static/media/stemFellowship1.png": "/portfolio/static/media/stemFellowship1.dc3171c7c411bb031408.png",
+    "static/media/neighbournet.png": "/portfolio/static/media/neighbournet.52cfcf2611a8fb1b7046.png",
+    "static/media/nn1.png": "/portfolio/static/media/nn1.079cd1f950178ad67b95.png",
+    "static/media/sf1.png": "/portfolio/static/media/sf1.e4e3c22e7ef9539bc9ef.png",
+    "static/media/internx.png": "/portfolio/static/media/internx.fad3ee36716ee6c12971.png",
+    "static/media/i1.png": "/portfolio/static/media/i1.938bcb4fdd3fce8574a0.png",
+    "static/media/toronto.png": "/portfolio/static/media/toronto.fec001ebc7ecc5b363b3.png",
+    "static/media/sf3.png": "/portfolio/static/media/sf3.13e7fac566a8d539e819.png",
+    "static/media/sf2.png": "/portfolio/static/media/sf2.03180c0118238f596c6c.png",
+    "static/media/costCompass.png": "/portfolio/static/media/costCompass.36a6768348c79401fd9e.png",
+    "static/media/i2.png": "/portfolio/static/media/i2.846f8784f9d5958c7a10.png",
+    "static/media/nn2.png": "/portfolio/static/media/nn2.7de46a7bc14ba4f3e7a8.png",
+    "static/media/cc1.png": "/portfolio/static/media/cc1.3f263c23222e14bdd848.png",
+    "static/media/i3.png": "/portfolio/static/media/i3.a3e8a93e9851f0bf5382.png",
+    "static/media/nn3.png": "/portfolio/static/media/nn3.782c02e4fd6c732b685d.png",
+    "static/media/i5.png": "/portfolio/static/media/i5.f31ebe7613463bb1b55d.png",
+    "static/media/i4.png": "/portfolio/static/media/i4.9e5dc975307d74e411d8.png",
+    "static/media/poppins-all-400-normal.woff": "/portfolio/static/media/poppins-all-400-normal.6fbfdac99c274b77fe96.woff",
+    "static/media/codeninjas.png": "/portfolio/static/media/codeninjas.8b5e8a905e5dd2bfe27d.png",
+    "static/media/cc2.png": "/portfolio/static/media/cc2.a3e3c83f8d5901bb25e6.png",
+    "static/media/poppins-devanagari-400-normal.woff2": "/portfolio/static/media/poppins-devanagari-400-normal.64d5f06ee726edd58ca3.woff2",
+    "static/media/league-spartan-all-400-normal.woff": "/portfolio/static/media/league-spartan-all-400-normal.63d127d27993ec6f782d.woff",
+    "static/media/stemfellowship.png": "/portfolio/static/media/stemfellowship.ff7b82109c9ec13f1372.png",
+    "static/media/cityoftoronto.png": "/portfolio/static/media/cityoftoronto.481f81de59c354ef9eab.png",
+    "static/media/league-spartan-latin-400-normal.woff2": "/portfolio/static/media/league-spartan-latin-400-normal.ff90845b5ef1a629271a.woff2",
+    "static/media/league-spartan-latin-ext-400-normal.woff2": "/portfolio/static/media/league-spartan-latin-ext-400-normal.8915f44a464c0038a068.woff2",
+    "static/media/poppins-latin-400-normal.woff2": "/portfolio/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/portfolio/static/media/poppins-latin-ext-400-normal.4f38b4331448d2313adc.woff2",
+    "static/media/league-spartan-vietnamese-400-normal.woff2": "/portfolio/static/media/league-spartan-vietnamese-400-normal.e8ad14433ca56ca2d3c0.woff2",
+    "index.html": "/portfolio/index.html",
+    "main.37e4dc29.css.map": "/portfolio/static/css/main.37e4dc29.css.map",
+    "main.a35319d0.js.map": "/portfolio/static/js/main.a35319d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37e4dc29.css",
+    "static/js/main.a35319d0.js"
+  ]
+}
