@@ -5,23 +5,23 @@ import CostCompass from "./components/CostCompass";
 import NeighbourNet from "./components/Neighbournet";
 import InternX from "./components/InternX";
 import StemFellowship from "./components/StemFellowship";
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 
 function App() {
   return (
 
-    <BrowserRouter>
+    <Router>
       <Routes>
-        <Route path="/" index element={<Main />} />
-        <Route path="/costcompass" element={<CostCompass />} />
-        <Route path="/neighbournet" element={<NeighbourNet />} />
-        <Route path="/internx" element={<InternX />} />
-        <Route path="/stemfellowship" element={<StemFellowship />} />
+        <Route path='/' index element={<Main />} />
+        <Route exact path='/costcompass' element={<CostCompass />} />
+        <Route exact path='/neighbournet' element={<NeighbourNet />} />
+        <Route exact path='/internx' element={<InternX />} />
+        <Route exact path='/stemfellowship' element={<StemFellowship />} />
 
 
       </Routes>
-    </BrowserRouter>
+    </Router>
   )
 }
 
