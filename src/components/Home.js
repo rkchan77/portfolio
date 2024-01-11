@@ -11,7 +11,7 @@ export default function Home() {
                     <h1>
                         <h1 class="title">RYAN CHAN</h1>
                         <a class="typewriteWhite">I'm a</a>
-                        <a href="" class="typewrite" data-period="2000" data-type='[" Front-End Developer.", " UI/UX Designer.", " Web Specialist." ]'>
+                        <a href="" class="typewrite" data-period="2000" data-type='[" Software Engineer.", " UI/UX Specialist.", " Front-End Developer." ]'>
                             <span class="wrap"></span>
                         </a>
                     </h1>
