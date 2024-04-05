@@ -9,7 +9,7 @@ export default function Contact() {
                     <h1 class="midHeader">Get in Touch</h1>
                     <h3>Want to chat? Send me an email or contact me through this form!</h3>
                     <div class="form">
-                        <iframe class="formEntry" src="https://www.cognitoforms.com/f/H3DU2YRs3EiGKMTDxiF_Mg/1"></iframe>
+                        <iframe  scrolling="no" class="formEntry" src="https://www.cognitoforms.com/f/H3DU2YRs3EiGKMTDxiF_Mg/1"></iframe>
                         <script src="https://www.cognitoforms.com/f/iframe.js"></script>
                     </div>
                     <div class="contacts">

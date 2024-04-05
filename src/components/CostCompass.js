@@ -3,7 +3,7 @@ import cc1 from "../assets/cc1.png"
 import cc2 from "../assets/cc2.png"
 import { Helmet } from "react-helmet";
 
-export default function CostCompasss() {
+export default function CostCompass() {
     return (
         <div>
             <Helmet>

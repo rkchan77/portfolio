@@ -35,6 +35,10 @@ h5 {
     margin-bottom: -0.5rem;
 }
 
+h4 {
+    font-size: clamp(14px, 4vw, 36px);
+}
+
 p {
     color: white;
     font-size: 18px;
@@ -480,8 +484,6 @@ input:checked~.tab-content {
 
 .card {
     text-align: left;
-    min-height: 55vh;
-    max-height: 60vh;
 }
 
 .card:hover .card__img {
